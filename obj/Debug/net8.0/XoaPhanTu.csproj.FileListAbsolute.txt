@@ -1,0 +1,14 @@
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\XoaPhanTu\bin\Debug\net8.0\XoaPhanTu.exe
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\XoaPhanTu\bin\Debug\net8.0\XoaPhanTu.deps.json
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\XoaPhanTu\bin\Debug\net8.0\XoaPhanTu.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\XoaPhanTu\bin\Debug\net8.0\XoaPhanTu.dll
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\XoaPhanTu\bin\Debug\net8.0\XoaPhanTu.pdb
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\XoaPhanTu\obj\Debug\net8.0\XoaPhanTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\XoaPhanTu\obj\Debug\net8.0\XoaPhanTu.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\XoaPhanTu\obj\Debug\net8.0\XoaPhanTu.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\XoaPhanTu\obj\Debug\net8.0\XoaPhanTu.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\XoaPhanTu\obj\Debug\net8.0\XoaPhanTu.dll
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\XoaPhanTu\obj\Debug\net8.0\refint\XoaPhanTu.dll
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\XoaPhanTu\obj\Debug\net8.0\XoaPhanTu.pdb
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\XoaPhanTu\obj\Debug\net8.0\XoaPhanTu.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\XoaPhanTu\obj\Debug\net8.0\ref\XoaPhanTu.dll
